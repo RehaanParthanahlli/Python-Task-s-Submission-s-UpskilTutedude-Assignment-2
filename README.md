@@ -13,7 +13,7 @@ Enter a number: 7
 # sample output:
 7 is an odd number
 # Task 2: Sum of Integers from 1 to 50 Using a Loop
-**filename**:`task1`
+**filename**:`task2`
 # Problem Statement: 
 Write a Python program that:
 1.   Uses a for loop to iterate over numbers from 1 to 50.
