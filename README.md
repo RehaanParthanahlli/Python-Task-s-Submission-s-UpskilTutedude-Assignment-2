@@ -1,2 +1,9 @@
-# Python-Task-s-Submission-s-UpskilTutedude-Assignment-2
-For submitting assignment's to get certified.
+## Python-Task-s-Submission-s-UpskilTutedude-Assignment-2
+# Task 1: Check if a Number is Even or Odd
+# Problem Statement:  Write a Python program that:
+1. 	Takes an integer input from the user.
+2. 	Checks whether the number is even or odd using an if-else statement.
+3. 	Displays the result accordingly.
+Expected Output:
+The program should return an output like:
+
